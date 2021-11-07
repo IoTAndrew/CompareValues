@@ -7,7 +7,7 @@ double getMax (double num, double num2, double num3);
 int main() {
     double num1;
     double num2;
-    double num3;
+    double num3; //comment that might help
 
     cout << "giv namber plz" << endl;
     cin >> num1;
