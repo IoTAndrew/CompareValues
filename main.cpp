@@ -4,10 +4,12 @@ using namespace std;
 
 double getMax (double num, double num2, double num3);
 
+//the program is quite simple so I do not think it needs any comments
+
 int main() {
     double num1;
     double num2;
-    double num3; //comment that might help
+    double num3;
 
     cout << "giv namber plz" << endl;
     cin >> num1;
@@ -17,7 +19,6 @@ int main() {
     cin >> num3;
 
     cout << "The bigger one is : " << getMax(num1, num2, num3) << endl;
-
 }
 
 double getMax (double num, double num2, double num3){
