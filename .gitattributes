@@ -1,3 +1,3 @@
-cmake-build-debug/* linguist-vendore*.cmake d
-*.cmake linguist-vendore*d
+cmake-build-debug/* linguist-vendored
+*.cmake linguist-vendored
 *.cpp linguist-vendored=false
