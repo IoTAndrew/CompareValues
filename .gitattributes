@@ -1,2 +1,3 @@
 cmake-build-debug/* linguist-vendored
 .cmake linguist-vendored
+.cpp linguist-vendored=false
